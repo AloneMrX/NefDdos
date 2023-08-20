@@ -1,0 +1,16 @@
+
+# NefDdos
+
+A SIMPLE DDOS TOOL MADE BY ME 
+
+INSTALLATION
+
+'' git clone https://github.com/AloneMrX/NefDdos/ ''
+
+
+USAGE 
+
+'' python3 neferian.py ''
+
+I AM NOT RESPONSIBLE FOR YOU ILLEGAL WORK DONT ATTACK ON .GOV .EDU .IN ETC OR ANY GOVERNMENT WEBSITE DO IT AR YOU OWN RISK TIK TOK TIK
+
